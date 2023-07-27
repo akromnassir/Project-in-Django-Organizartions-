@@ -9,8 +9,7 @@ django-organizations
 
     * - Summary
       - Groups and multi-user account management
-    * - Author
-      - Ben Lopatin (http://benlopatin.com)
+
     * - Status
       - |docs| |travis| |version| |wheel| |supported-versions| |supported-implementations|
 
@@ -275,20 +274,4 @@ and used to create unique organization model sets using custom tables. See the
 `Cooking with Django Organizations
 <http://django-organizations.readthedocs.org/en/latest/cookbook.html#advanced-customization>`_
 section in the documentation for advice on proceeding.
-
-License
-=======
-
-Anyone is free to use or modify this software under the terms of the BSD
-license.
-
-Sponsors
-========
-
-`Muster <https://www.muster.com/home?utm_source=github&campaign=opensource>`_ is building precision advocacy software to impact policy through grassroots action.
-
-.. image:: https://www.muster.com/hs-fs/hubfs/muster_logo-2.png?width=600&name=muster_logo-2.png
-  :target: https://www.muster.com/home?utm_source=github&campaign=opensource
-  :width: 400
-  :alt: Alternative text
 
